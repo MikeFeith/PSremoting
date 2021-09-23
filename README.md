@@ -4,3 +4,4 @@
 4. run the script :)
 
 Example for a Azure ARC deployment script:
+![example image](https://user-images.githubusercontent.com/23695684/134479261-908c20fc-4175-401d-a3b7-11089da5aaf3.png)
