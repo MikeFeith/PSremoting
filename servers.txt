@@ -1,0 +1,5 @@
+SRV-01
+SRV-02
+SRV-03
+SRV-04.local.company.com
+10.0.0.4
